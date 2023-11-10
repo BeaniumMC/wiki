@@ -1,0 +1,7 @@
+site:
+  name: Beanium Wiki
+  url: https://wiki.beanium.net/
+  description: Official Beanium documentation
+  author: Beanium Team
+
+copyright: Copyright &copy; 2023 <a href="https://beanium.net/about">Beanium Team</a>.
